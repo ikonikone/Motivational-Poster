@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+.picture{
+    border: 2px solid beige;
+    margin-top: 120px;
+    margin-left: 400px;
+
+}
+  h1{
+    color: white;
+    font-size: 50px;
+    font-family: 'Pacifico', cursive;
+    margin-top: 10px;
+    margin-left: 440px;
+}
+p{
+    color: white;
+    font-family: 'Pacifico', cursive;
+    margin-left: 650px;
+    
+}
